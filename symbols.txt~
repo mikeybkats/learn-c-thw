@@ -4,3 +4,7 @@ Symbols for c programming
 CFLAGS="-Wall"
 what is a rules engine?
 lldb and gdb
+Valgrind - like gdb or lldb but tracks memory
+alternative to valgrind:  gdb --batch --ex run --ex bt --ex q --args 
+Splint 
+Address Sanitizer 
